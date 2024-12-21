@@ -1,5 +1,4 @@
-# Quiz-4
-Amazon Product Scraper
-Amazon.com დან Beauty & Personal Care - გვერდის Scraper/Parsing
+# Amazon Product Scraper
+Amazon Product Scraper from Amazon.com Beauty & Personal Care - Page Scraper/Parsing
 
-პროექტის საშუალებით შესაძლებელია Amazon - ის საიტის Beauty & Personal Care განყოფილებიდან ნებისმიერი პროდუქტის შესახებ ინფორმაციის (პროდუქტის დასახელება, პროდუქტის ღირებულება, პროდუქტის ლინკი) მიღება.
+The project allows you to get information about any product (product name, product price, product link) from the Beauty & Personal Care section of the Amazon website.
